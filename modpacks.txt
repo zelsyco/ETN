@@ -1,4 +1,3 @@
 {
-	"name": "forge",
-	"version": "1.7.10"
+	{"name": "forge","version": "1.7.10"}
 }
